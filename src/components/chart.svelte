@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
     import { Pie } from 'svelte-chartjs';
     import 'chart.js/auto';
     import { data } from './data.js';
@@ -16,4 +16,4 @@
     ChartJS.register(Title, Tooltip, Legend, ArcElement, CategoryScale);
 </script>
 
-<Pie {data} options={{responsive: true}} />
+<Pie {data} options={{responsive: true}} /> -->

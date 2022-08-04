@@ -7,7 +7,7 @@ const pkg = require('./package.json');
 const config = {
 	plugins: [sveltekit()],
 	optimizeDeps: {
-		include: ['just-throttle', 'dayjs', 'chart.js', 'pie']
+		include: ['just-throttle', 'dayjs']
 	},
 
 	ssr: {
