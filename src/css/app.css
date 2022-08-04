@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    background-color: #f5f5f5;
+}
+.sidebar {
+    flex: 0.8;
+}
+
+
+.dashboard {
+    flex: 4;
+}
+/* .menu-item {
+    display: flex;
+    
+} */
+
+/* .info-card {
+    height: 300px;
+} */
+/* .s-icon {
+    
+} */
